@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">FootballApplication</string>
+    <string name="title_tab_last_event">Last Match</string>
+    <string name="title_tab_next_event">Next Match</string>
+    <string name="title_tab_fav_match">Match</string>
+    <string name="title_tab_fav_team">Team</string>
+    <string name="vs">VS</string>
+    <string name="lineups">Lineups</string>
+    <string name="goals">Goals</string>
+    <string name="shots">Shots</string>
+    <string name="goal_keeper">Goal Keeper</string>
+    <string name="defense">Defense</string>
+    <string name="midfield">Midfield</string>
+    <string name="forward">Forward</string>
+    <string name="substitutes">Substitutes</string>
+    <string name="matches_title">Matches</string>
+    <string name="teams_title">Teams</string>
+    <string name="overview_tab_title">Overview</string>
+    <string name="player_tab_title">Players</string>
+    <string name="favorites_title">Favorites</string>
+    <string name="favorites_button">Favorites Button</string>
+    <string name="message_add">This match has been added as favorite</string>
+    <string name="message_remove">This match has been removed from favorite</string>
+    <string name="empty_message">No Favorite Match</string>
+    <string name="height_m">Height (m)</string>
+    <string name="weight_kg">Weight (Kg)</string>
+    <string name="event_hint">Search Match</string>
+    <string name="team_hint">Search Team</string>
+    <string name="search_menu">Search</string>
+    <string name="search_home">Search Home</string>
+    <string name="empty_result">No data is found</string>
+    <string name="error_internet">No Internet Connected</string>
+    <string name="msg_error">Icon for no connection</string>
+</resources>
